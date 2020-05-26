@@ -1,6 +1,8 @@
 # SmartCitySen
-Industrialización de Sistema Autónomo de Señalización Vial de Pasos Peatonales Inteligentes (Smart-CitySen) 
+Título del proyecto: Industrialización de Sistema Autónomo de Señalización Vial de Pasos Peatonales Inteligentes (Smart-CitySen) 
+
 Entidad financiadora: Junta de Andalucía – Ayudas a actividades de transferencia de conocimiento entre los agentes del sistema andaluz del conocimiento y el tejido productivo andaluz (ref. 1155452)
+
 Entidades participantes: Universidad de Huelva 
 
 En este repositorio se encuentran los simbolos y huellas de los componentes utilizados en la creación de la placa de cirucito impreso (PCB) del proyecto. Los simbolos y huellas han sido generadas mediante KiCad para los siguientes componentes:
