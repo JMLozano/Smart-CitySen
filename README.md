@@ -1,4 +1,4 @@
-# SmartCitySen
+# Smart-CitySen
 Título del proyecto: Industrialización de Sistema Autónomo de Señalización Vial de Pasos Peatonales Inteligentes (Smart-CitySen) 
 
 Entidad financiadora: Junta de Andalucía – Ayudas a actividades de transferencia de conocimiento entre los agentes del sistema andaluz del conocimiento y el tejido productivo andaluz (ref. 1155452)
